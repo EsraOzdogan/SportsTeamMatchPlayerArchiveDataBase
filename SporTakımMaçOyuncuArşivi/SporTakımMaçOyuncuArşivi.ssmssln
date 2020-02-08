@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SporTakımMaçOyuncuArşivi", "SporTakımMaçOyuncuArşivi\SporTakımMaçOyuncuArşivi.ssmssqlproj", "{028CE90C-CA67-4D5C-91CA-C2A4C7D1FFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028CE90C-CA67-4D5C-91CA-C2A4C7D1FFBF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC223E36-2FF0-463F-AB5A-F5DCC861C046}
+	EndGlobalSection
+EndGlobal
